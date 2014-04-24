@@ -16,3 +16,5 @@ For the admin:
 
 .. _`blog series`: http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django/
 .. _`polls`: http://docs.djangoproject.com/en/1.3/intro/tutorial01/
+
+1.3 will no longer be supported. Please use the 1.5 branch.
